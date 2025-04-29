@@ -2,10 +2,10 @@
   "name": "recipe-finder",
   "private": true,
   "version": "0.0.0",
+  "type": "module",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "start": "vite preview"
+    "dev": "vite",  
+    "build": "vite build"
   },
   "dependencies": {
     "lucide-react": "^0.503.0",
